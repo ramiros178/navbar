@@ -16,7 +16,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 150px;
+    height: 120px;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -51,6 +51,24 @@ body{
     background: black;
 }
 
+.section{
+    background: black;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    align-items: center;
+    color:yellow;
+    text-align: center;
+    
+    
+}
+
+p{
+    text-align: center;
+    width: 300px;
+    font-size: 20px;
+  
+}
     
 
     
